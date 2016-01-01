@@ -1,5 +1,5 @@
 --path /:table:item
---path /*/rating/:column
---path /*/sales/:table:sales
---path /*/appendix/:table:appendix
---path /*/genres/:table:genres
+--path /*/rating:column
+--path /*/sales:table:sales
+--path /*/appendix:table:appendix
+--path /*/genres:table:genres

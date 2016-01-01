@@ -47,9 +47,9 @@ Assuming the following input file:
 And the following command line flags:
 
    --path /:table:item
-   --path /*/rating/:column
-   --path /*/sales/:table:sales
-   --path /*/genres/:table:genres
+   --path /*/rating:column
+   --path /*/sales:table:sales
+   --path /*/genres:table:genres
 
 You'd get the following output files, which can be joined together
 using the B<*._key> fields.
@@ -145,7 +145,7 @@ rules:
 Paths are matched against with pathspecs. In a pathspec any of the
 elements of the path can instead be replaced with a C<*>, which will
 match any element in that position (but not multiple adjacent ones).
-That is, the spec C</a/*/c> will match C<a/b/c> but not C<a/b/b/c>.
+That is, the pathspec C</a/*/c> will match C<a/b/c> but not C<a/b/b/c>.
 
 =head1 AUTHOR
 
@@ -165,7 +165,7 @@ use JSON;
 use Pod::Usage;
 use Text::CSV;
 
-use vars qw($path @key @table $field $row);
+use vars qw($path @path @key @table $field $row);
 
 sub usage {
     my ($exitval) = @_;
@@ -173,7 +173,7 @@ sub usage {
 }
 
 my %tables = ();
-my %handlers = ();
+my @handlers = ();
 
 sub record {
     die "No open row (path $path)\n" if !defined $row;
@@ -201,13 +201,28 @@ sub collect_row {
 sub collect_column {
     my ($name, $thunk) = @_;
     local $field = (defined $field ? "$field.$name" : $name);
+    local @path = (@path, $name);
     local $path = "$path$name/";
     $thunk->();
 }
 
+sub find_handler {
+    my $fallback = undef;
+    for my $handler (@handlers) {
+        if ($handler->{match}(@path)) {
+            if ($handler->{fallback}) {
+                $fallback = $handler;
+            } else {
+                return $handler;
+            }
+        }
+    }
+    $fallback;
+}
+
 sub grovel {
     my $val = shift;
-    my $handler = $handlers{$path};
+    my $handler = find_handler;
     if (defined $handler and $handler->{kind} eq 'ignore') {
         return;
     }
@@ -219,7 +234,8 @@ sub grovel {
         if ($handler->{kind} eq 'table') {
             for my $key (sort keys %{$val}) {
                 local @key = (@key, $key);
-                local $path = "$path*/";
+                local @path = (@path, $key);
+                local $path = "$path$key/";
                 local $field = $handler->{args}[0];
                 local @table = (@table, $field);
                 collect_row sub {
@@ -251,7 +267,8 @@ sub grovel {
             $index++;
             if ($handler->{kind} eq 'table') {
                 local @key = (@key, $index);
-                local $path = "$path*/";
+                local @path = (@path, $index);
+                local $path = "$path$index/";
                 local $field = $handler->{args}[0];
                 local @table = (@table, $field);
                 collect_row sub {
@@ -290,6 +307,22 @@ sub output_tables {
     }
 }
 
+sub make_matcher {
+    my @components = @_;
+    return sub {
+        my @match_components = @_;
+        # print STDERR "match: [@match_components] [@components]\n";
+        return 0 if @match_components != @components;
+        for my $i (0..$#components) {
+            next if ($components[$i] eq '*');
+            if ($components[$i] ne $match_components[$i]) {
+                return 0;
+            }
+        }
+        return 1;
+    }
+}
+
 sub add_handler {
     my ($arg, $value) = @_;
     my ($path, $handler, @args) = split /:/, $value;
@@ -299,13 +332,22 @@ sub add_handler {
     if ($handler eq 'table' and !@args) {
         die "table handler '$value' needs a table name argument\n";
     }
-    if (exists $handlers{$path}) {
-        die "multiple handlers specific for '$path'\n";
+    if ($path !~ m{^/}) {
+        die "Invalid path '$path' (must start with '/')\n";
     }
-    $handlers{$path} = { kind => $handler, args => \@args };
-    if ($handler eq 'table') {
-        $handlers{"$path*/"} = { kind => 'column' }
-    }       
+    $path =~ s{/$}{};
+    my @components = split /\//, $path;
+    shift @components;
+    push @handlers, {
+        kind => $handler,
+        args => \@args,
+        match => make_matcher @components
+    };
+    push @handlers, {
+        kind => 'column',
+        fallback => 1,
+        match => make_matcher @components, '*'
+    };
 }
 
 sub main {
@@ -313,6 +355,7 @@ sub main {
     local @table = ();
     local $field;
     local $row;
+    local @path = qw();
     local $path = qw(/);
 
     my $file;
