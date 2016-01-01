@@ -10,7 +10,7 @@ use Fatal qw(chdir);
 sub runtest {
     my ($dir) = @_;
 
-    my $FLAGS = read_file "$dir/FLAGS";
+    my $FLAGS = join ' ', map { chomp; $_; } read_file "$dir/FLAGS";
 
     chdir $dir;
     rmtree 'output.actual';

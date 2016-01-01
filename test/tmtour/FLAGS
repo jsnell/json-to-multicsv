@@ -1,0 +1,5 @@
+--path /:row
+--path /games/:table:game
+--path /games/*/players/:column
+--path /options/:table:option
+--table main

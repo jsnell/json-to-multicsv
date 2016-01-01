@@ -1,0 +1,4 @@
+--path /:table:shapes
+--path /*/points/:column
+--path /*/points/1/:column
+--path /*/points/2/:column

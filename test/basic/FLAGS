@@ -1,1 +1,5 @@
---path /:table:item --path /*/:row --path /*/rating/:row --path /*/sales/:table:sales --path /*/sales/*/:row --path /*/appendix/:table:appendix --path /*/appendix/*/:row --path /*/genres/:table:genres
+--path /:table:item
+--path /*/rating/:column
+--path /*/sales/:table:sales
+--path /*/appendix/:table:appendix
+--path /*/genres/:table:genres

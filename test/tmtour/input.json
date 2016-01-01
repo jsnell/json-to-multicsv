@@ -1,0 +1,6467 @@
+{
+    "admin": "4p-league-admin",
+    "deadline-hours": 120,
+    "games": [
+        {
+            "name": "4pLeague_S8_D1L1_G1",
+            "players": [
+                "WarShoe",
+                "jsnell",
+                "Yvon",
+                "eunck"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G2",
+            "players": [
+                "jsnell",
+                "c.love",
+                "Xevoc",
+                "WarShoe"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G3",
+            "players": [
+                "c.love",
+                "Yvon",
+                "bjolletz",
+                "jsnell"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G4",
+            "players": [
+                "Yvon",
+                "Xevoc",
+                "eunck",
+                "c.love"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G5",
+            "players": [
+                "Xevoc",
+                "bjolletz",
+                "WarShoe",
+                "Yvon"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G6",
+            "players": [
+                "bjolletz",
+                "eunck",
+                "jsnell",
+                "Xevoc"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D1L1_G7",
+            "players": [
+                "eunck",
+                "WarShoe",
+                "c.love",
+                "bjolletz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G1",
+            "players": [
+                "Isobanaani",
+                "Given",
+                "Stones",
+                "GrandAt"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G2",
+            "players": [
+                "Given",
+                "eephus",
+                "le_asmo",
+                "Isobanaani"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G3",
+            "players": [
+                "eephus",
+                "Stones",
+                "Machiavelli",
+                "Given"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G4",
+            "players": [
+                "Stones",
+                "le_asmo",
+                "GrandAt",
+                "eephus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G5",
+            "players": [
+                "le_asmo",
+                "Machiavelli",
+                "Isobanaani",
+                "Stones"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G6",
+            "players": [
+                "Machiavelli",
+                "GrandAt",
+                "Given",
+                "le_asmo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L1_G7",
+            "players": [
+                "GrandAt",
+                "Isobanaani",
+                "eephus",
+                "Machiavelli"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G1",
+            "players": [
+                "Thrar",
+                "Sir_Gawain",
+                "Stefan",
+                "Fortuna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G2",
+            "players": [
+                "Sir_Gawain",
+                "shanarkoh",
+                "Dashmudtz",
+                "Thrar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G3",
+            "players": [
+                "shanarkoh",
+                "Stefan",
+                "marksickau",
+                "Sir_Gawain"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G4",
+            "players": [
+                "Stefan",
+                "Dashmudtz",
+                "Fortuna",
+                "shanarkoh"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G5",
+            "players": [
+                "Dashmudtz",
+                "marksickau",
+                "Thrar",
+                "Stefan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G6",
+            "players": [
+                "marksickau",
+                "Fortuna",
+                "Sir_Gawain",
+                "Dashmudtz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D2L2_G7",
+            "players": [
+                "Fortuna",
+                "Thrar",
+                "shanarkoh",
+                "marksickau"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G1",
+            "players": [
+                "BAOutblank",
+                "rafalimaz",
+                "JanusJester",
+                "miznor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G2",
+            "players": [
+                "rafalimaz",
+                "lsy03",
+                "DerIKM",
+                "BAOutblank"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G3",
+            "players": [
+                "lsy03",
+                "JanusJester",
+                "Brent",
+                "rafalimaz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G4",
+            "players": [
+                "JanusJester",
+                "DerIKM",
+                "miznor",
+                "lsy03"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G5",
+            "players": [
+                "DerIKM",
+                "Brent",
+                "BAOutblank",
+                "JanusJester"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G6",
+            "players": [
+                "Brent",
+                "miznor",
+                "rafalimaz",
+                "DerIKM"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L1_G7",
+            "players": [
+                "miznor",
+                "BAOutblank",
+                "lsy03",
+                "Brent"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G1",
+            "players": [
+                "robinz",
+                "Mb",
+                "Salokin",
+                "Devak"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G2",
+            "players": [
+                "Mb",
+                "entaku_p",
+                "GoddamnBF",
+                "robinz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G3",
+            "players": [
+                "entaku_p",
+                "Salokin",
+                "no_dice",
+                "Mb"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G4",
+            "players": [
+                "Salokin",
+                "GoddamnBF",
+                "Devak",
+                "entaku_p"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G5",
+            "players": [
+                "GoddamnBF",
+                "no_dice",
+                "robinz",
+                "Salokin"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G6",
+            "players": [
+                "no_dice",
+                "Devak",
+                "Mb",
+                "GoddamnBF"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L2_G7",
+            "players": [
+                "Devak",
+                "robinz",
+                "entaku_p",
+                "no_dice"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G1",
+            "players": [
+                "mikaeljt",
+                "linsson",
+                "toine",
+                "kitty"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G2",
+            "players": [
+                "linsson",
+                "gpchurchill",
+                "BlueSteel",
+                "mikaeljt"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G3",
+            "players": [
+                "gpchurchill",
+                "toine",
+                "dgrazian",
+                "linsson"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G4",
+            "players": [
+                "toine",
+                "BlueSteel",
+                "kitty",
+                "gpchurchill"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G5",
+            "players": [
+                "BlueSteel",
+                "dgrazian",
+                "mikaeljt",
+                "toine"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G6",
+            "players": [
+                "dgrazian",
+                "kitty",
+                "linsson",
+                "BlueSteel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L3_G7",
+            "players": [
+                "kitty",
+                "mikaeljt",
+                "gpchurchill",
+                "dgrazian"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G1",
+            "players": [
+                "ararar",
+                "affe1982",
+                "edfactor",
+                "Jan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G2",
+            "players": [
+                "affe1982",
+                "prodigaldax",
+                "Roestertaube",
+                "ararar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G3",
+            "players": [
+                "prodigaldax",
+                "edfactor",
+                "rasberry",
+                "affe1982"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G4",
+            "players": [
+                "edfactor",
+                "Roestertaube",
+                "Jan",
+                "prodigaldax"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G5",
+            "players": [
+                "Roestertaube",
+                "rasberry",
+                "ararar",
+                "edfactor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G6",
+            "players": [
+                "rasberry",
+                "Jan",
+                "affe1982",
+                "Roestertaube"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D3L4_G7",
+            "players": [
+                "Jan",
+                "ararar",
+                "prodigaldax",
+                "rasberry"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G1",
+            "players": [
+                "pipiol",
+                "koishi",
+                "kclaes",
+                "Trantor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G2",
+            "players": [
+                "koishi",
+                "filgalaxy999",
+                "aleph",
+                "pipiol"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G3",
+            "players": [
+                "filgalaxy999",
+                "kclaes",
+                "Taddeus81",
+                "koishi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G4",
+            "players": [
+                "kclaes",
+                "aleph",
+                "Trantor",
+                "filgalaxy999"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G5",
+            "players": [
+                "aleph",
+                "Taddeus81",
+                "pipiol",
+                "kclaes"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G6",
+            "players": [
+                "Taddeus81",
+                "Trantor",
+                "koishi",
+                "aleph"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L1_G7",
+            "players": [
+                "Trantor",
+                "pipiol",
+                "filgalaxy999",
+                "Taddeus81"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G1",
+            "players": [
+                "nickismyname",
+                "kahy",
+                "ozangumus",
+                "otomedi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G2",
+            "players": [
+                "kahy",
+                "bjcowen",
+                "TechGuy",
+                "nickismyname"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G3",
+            "players": [
+                "bjcowen",
+                "ozangumus",
+                "Pesto",
+                "kahy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G4",
+            "players": [
+                "ozangumus",
+                "TechGuy",
+                "otomedi",
+                "bjcowen"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G5",
+            "players": [
+                "TechGuy",
+                "Pesto",
+                "nickismyname",
+                "ozangumus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G6",
+            "players": [
+                "Pesto",
+                "otomedi",
+                "kahy",
+                "TechGuy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L2_G7",
+            "players": [
+                "otomedi",
+                "nickismyname",
+                "bjcowen",
+                "Pesto"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G1",
+            "players": [
+                "retardedonkey",
+                "Devius",
+                "qqzm",
+                "VG715"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G2",
+            "players": [
+                "Devius",
+                "fuguta",
+                "VHOORLYS",
+                "retardedonkey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G3",
+            "players": [
+                "fuguta",
+                "qqzm",
+                "zander",
+                "Devius"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G4",
+            "players": [
+                "qqzm",
+                "VHOORLYS",
+                "VG715",
+                "fuguta"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G5",
+            "players": [
+                "VHOORLYS",
+                "zander",
+                "retardedonkey",
+                "qqzm"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G6",
+            "players": [
+                "zander",
+                "VG715",
+                "Devius",
+                "VHOORLYS"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L3_G7",
+            "players": [
+                "VG715",
+                "retardedonkey",
+                "fuguta",
+                "zander"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G1",
+            "players": [
+                "konush",
+                "mbsp",
+                "Jari",
+                "Brinocalf"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G2",
+            "players": [
+                "mbsp",
+                "Cortzas",
+                "sunny",
+                "konush"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G3",
+            "players": [
+                "Cortzas",
+                "Jari",
+                "wotts",
+                "mbsp"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G4",
+            "players": [
+                "Jari",
+                "sunny",
+                "Brinocalf",
+                "Cortzas"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G5",
+            "players": [
+                "sunny",
+                "wotts",
+                "konush",
+                "Jari"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G6",
+            "players": [
+                "wotts",
+                "Brinocalf",
+                "mbsp",
+                "sunny"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L4_G7",
+            "players": [
+                "Brinocalf",
+                "konush",
+                "Cortzas",
+                "wotts"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G1",
+            "players": [
+                "Morat",
+                "Blackstuff",
+                "WOH_G64",
+                "steve.ogdahl"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G2",
+            "players": [
+                "Blackstuff",
+                "melendor",
+                "sanrensei",
+                "Morat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G3",
+            "players": [
+                "melendor",
+                "WOH_G64",
+                "gambrinus",
+                "Blackstuff"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G4",
+            "players": [
+                "WOH_G64",
+                "sanrensei",
+                "steve.ogdahl",
+                "melendor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G5",
+            "players": [
+                "sanrensei",
+                "gambrinus",
+                "Morat",
+                "WOH_G64"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G6",
+            "players": [
+                "gambrinus",
+                "steve.ogdahl",
+                "Blackstuff",
+                "sanrensei"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L5_G7",
+            "players": [
+                "steve.ogdahl",
+                "Morat",
+                "melendor",
+                "gambrinus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G1",
+            "players": [
+                "Artwo",
+                "jetlagbr",
+                "sj880226",
+                "Silberklinge"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G2",
+            "players": [
+                "jetlagbr",
+                "omegasun5",
+                "yamamoto",
+                "Artwo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G3",
+            "players": [
+                "omegasun5",
+                "sj880226",
+                "broche",
+                "jetlagbr"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G4",
+            "players": [
+                "sj880226",
+                "yamamoto",
+                "Silberklinge",
+                "omegasun5"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G5",
+            "players": [
+                "yamamoto",
+                "broche",
+                "Artwo",
+                "sj880226"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G6",
+            "players": [
+                "broche",
+                "Silberklinge",
+                "jetlagbr",
+                "yamamoto"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L6_G7",
+            "players": [
+                "Silberklinge",
+                "Artwo",
+                "omegasun5",
+                "broche"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G1",
+            "players": [
+                "JJape",
+                "croloris",
+                "aok",
+                "hussai"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G2",
+            "players": [
+                "croloris",
+                "Shardan",
+                "harubz",
+                "JJape"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G3",
+            "players": [
+                "Shardan",
+                "aok",
+                "Mazette",
+                "croloris"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G4",
+            "players": [
+                "aok",
+                "harubz",
+                "hussai",
+                "Shardan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G5",
+            "players": [
+                "harubz",
+                "Mazette",
+                "JJape",
+                "aok"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G6",
+            "players": [
+                "Mazette",
+                "hussai",
+                "croloris",
+                "harubz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L7_G7",
+            "players": [
+                "hussai",
+                "JJape",
+                "Shardan",
+                "Mazette"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G1",
+            "players": [
+                "rabbit19",
+                "brain_cloud",
+                "Iceape",
+                "Koronin"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G2",
+            "players": [
+                "brain_cloud",
+                "hchao",
+                "EmotiKhan",
+                "rabbit19"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G3",
+            "players": [
+                "hchao",
+                "Iceape",
+                "Vladislavs2",
+                "brain_cloud"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G4",
+            "players": [
+                "Iceape",
+                "EmotiKhan",
+                "Koronin",
+                "hchao"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G5",
+            "players": [
+                "EmotiKhan",
+                "Vladislavs2",
+                "rabbit19",
+                "Iceape"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G6",
+            "players": [
+                "Vladislavs2",
+                "Koronin",
+                "brain_cloud",
+                "EmotiKhan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D4L8_G7",
+            "players": [
+                "Koronin",
+                "rabbit19",
+                "hchao",
+                "Vladislavs2"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G1",
+            "players": [
+                "mesiash",
+                "rykruger",
+                "tersk1",
+                "antontm"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G2",
+            "players": [
+                "rykruger",
+                "EddySpagetti",
+                "MrFromMars",
+                "mesiash"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G3",
+            "players": [
+                "EddySpagetti",
+                "tersk1",
+                "Moselle",
+                "rykruger"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G4",
+            "players": [
+                "tersk1",
+                "MrFromMars",
+                "antontm",
+                "EddySpagetti"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G5",
+            "players": [
+                "MrFromMars",
+                "Moselle",
+                "mesiash",
+                "tersk1"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G6",
+            "players": [
+                "Moselle",
+                "antontm",
+                "rykruger",
+                "MrFromMars"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L1_G7",
+            "players": [
+                "antontm",
+                "mesiash",
+                "EddySpagetti",
+                "Moselle"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G1",
+            "players": [
+                "Niccolo",
+                "jsem",
+                "Stenkoll",
+                "rich_wil"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G2",
+            "players": [
+                "jsem",
+                "ajisuke",
+                "Poldini",
+                "Niccolo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G3",
+            "players": [
+                "ajisuke",
+                "Stenkoll",
+                "fcofabricio",
+                "jsem"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G4",
+            "players": [
+                "Stenkoll",
+                "Poldini",
+                "rich_wil",
+                "ajisuke"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G5",
+            "players": [
+                "Poldini",
+                "fcofabricio",
+                "Niccolo",
+                "Stenkoll"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G6",
+            "players": [
+                "fcofabricio",
+                "rich_wil",
+                "jsem",
+                "Poldini"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L2_G7",
+            "players": [
+                "rich_wil",
+                "Niccolo",
+                "ajisuke",
+                "fcofabricio"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G1",
+            "players": [
+                "cats1024",
+                "Arkarsha",
+                "LiteBulb88",
+                "sve_xd"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G2",
+            "players": [
+                "Arkarsha",
+                "armaddon",
+                "memcrope",
+                "cats1024"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G3",
+            "players": [
+                "armaddon",
+                "LiteBulb88",
+                "bullet430",
+                "Arkarsha"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G4",
+            "players": [
+                "LiteBulb88",
+                "memcrope",
+                "sve_xd",
+                "armaddon"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G5",
+            "players": [
+                "memcrope",
+                "bullet430",
+                "cats1024",
+                "LiteBulb88"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G6",
+            "players": [
+                "bullet430",
+                "sve_xd",
+                "Arkarsha",
+                "memcrope"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L3_G7",
+            "players": [
+                "sve_xd",
+                "cats1024",
+                "armaddon",
+                "bullet430"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G1",
+            "players": [
+                "Sassage",
+                "vegos",
+                "arhpositive",
+                "terrarist"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G2",
+            "players": [
+                "vegos",
+                "lolazzaro",
+                "Brains-on-ice",
+                "Sassage"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G3",
+            "players": [
+                "lolazzaro",
+                "arhpositive",
+                "miked1991",
+                "vegos"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G4",
+            "players": [
+                "arhpositive",
+                "Brains-on-ice",
+                "terrarist",
+                "lolazzaro"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G5",
+            "players": [
+                "Brains-on-ice",
+                "miked1991",
+                "Sassage",
+                "arhpositive"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G6",
+            "players": [
+                "miked1991",
+                "terrarist",
+                "vegos",
+                "Brains-on-ice"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L4_G7",
+            "players": [
+                "terrarist",
+                "Sassage",
+                "lolazzaro",
+                "miked1991"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G1",
+            "players": [
+                "surpriz3",
+                "Romma",
+                "blastoch",
+                "Paternel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G2",
+            "players": [
+                "Romma",
+                "Hammer",
+                "BattleToads",
+                "surpriz3"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G3",
+            "players": [
+                "Hammer",
+                "blastoch",
+                "kehmesis",
+                "Romma"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G4",
+            "players": [
+                "blastoch",
+                "BattleToads",
+                "Paternel",
+                "Hammer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G5",
+            "players": [
+                "BattleToads",
+                "kehmesis",
+                "surpriz3",
+                "blastoch"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G6",
+            "players": [
+                "kehmesis",
+                "Paternel",
+                "Romma",
+                "BattleToads"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L5_G7",
+            "players": [
+                "Paternel",
+                "surpriz3",
+                "Hammer",
+                "kehmesis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G1",
+            "players": [
+                "darkstar",
+                "aquacat",
+                "majicalways",
+                "namssa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G2",
+            "players": [
+                "aquacat",
+                "Skopajz",
+                "Conan",
+                "darkstar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G3",
+            "players": [
+                "Skopajz",
+                "majicalways",
+                "Ladinek",
+                "aquacat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G4",
+            "players": [
+                "majicalways",
+                "Conan",
+                "namssa",
+                "Skopajz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G5",
+            "players": [
+                "Conan",
+                "Ladinek",
+                "darkstar",
+                "majicalways"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G6",
+            "players": [
+                "Ladinek",
+                "namssa",
+                "aquacat",
+                "Conan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L6_G7",
+            "players": [
+                "namssa",
+                "darkstar",
+                "Skopajz",
+                "Ladinek"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G1",
+            "players": [
+                "lscrock",
+                "Toshimoko",
+                "nightlark7",
+                "Destructeur_de_Marcel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G2",
+            "players": [
+                "Toshimoko",
+                "tucnak64",
+                "paschlewwer",
+                "lscrock"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G3",
+            "players": [
+                "tucnak64",
+                "nightlark7",
+                "Asyl",
+                "Toshimoko"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G4",
+            "players": [
+                "nightlark7",
+                "paschlewwer",
+                "Destructeur_de_Marcel",
+                "tucnak64"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G5",
+            "players": [
+                "paschlewwer",
+                "Asyl",
+                "lscrock",
+                "nightlark7"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G6",
+            "players": [
+                "Asyl",
+                "Destructeur_de_Marcel",
+                "Toshimoko",
+                "paschlewwer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L7_G7",
+            "players": [
+                "Destructeur_de_Marcel",
+                "lscrock",
+                "tucnak64",
+                "Asyl"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G1",
+            "players": [
+                "st055031",
+                "Mila78",
+                "tank",
+                "clark.millikan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G2",
+            "players": [
+                "Mila78",
+                "MrFrank",
+                "tasso_zh",
+                "st055031"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G3",
+            "players": [
+                "MrFrank",
+                "tank",
+                "supercoolfred",
+                "Mila78"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G4",
+            "players": [
+                "tank",
+                "tasso_zh",
+                "clark.millikan",
+                "MrFrank"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G5",
+            "players": [
+                "tasso_zh",
+                "supercoolfred",
+                "st055031",
+                "tank"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G6",
+            "players": [
+                "supercoolfred",
+                "clark.millikan",
+                "Mila78",
+                "tasso_zh"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L8_G7",
+            "players": [
+                "clark.millikan",
+                "st055031",
+                "MrFrank",
+                "supercoolfred"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G1",
+            "players": [
+                "Fiitsch",
+                "keeefir",
+                "behgez",
+                "itcouldbewirfs"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G2",
+            "players": [
+                "keeefir",
+                "Kiriel",
+                "ZeroFusion",
+                "Fiitsch"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G3",
+            "players": [
+                "Kiriel",
+                "behgez",
+                "Merudo",
+                "keeefir"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G4",
+            "players": [
+                "behgez",
+                "ZeroFusion",
+                "itcouldbewirfs",
+                "Kiriel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G5",
+            "players": [
+                "ZeroFusion",
+                "Merudo",
+                "Fiitsch",
+                "behgez"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G6",
+            "players": [
+                "Merudo",
+                "itcouldbewirfs",
+                "keeefir",
+                "ZeroFusion"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L9_G7",
+            "players": [
+                "itcouldbewirfs",
+                "Fiitsch",
+                "Kiriel",
+                "Merudo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G1",
+            "players": [
+                "kotoha",
+                "Alex",
+                "locu",
+                "Fluxx"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G2",
+            "players": [
+                "Alex",
+                "Styrx",
+                "Direct",
+                "kotoha"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G3",
+            "players": [
+                "Styrx",
+                "locu",
+                "ErinHarrington",
+                "Alex"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G4",
+            "players": [
+                "locu",
+                "Direct",
+                "Fluxx",
+                "Styrx"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G5",
+            "players": [
+                "Direct",
+                "ErinHarrington",
+                "kotoha",
+                "locu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G6",
+            "players": [
+                "ErinHarrington",
+                "Fluxx",
+                "Alex",
+                "Direct"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L10_G7",
+            "players": [
+                "Fluxx",
+                "kotoha",
+                "Styrx",
+                "ErinHarrington"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G1",
+            "players": [
+                "LaQuille",
+                "pwn",
+                "wackforce",
+                "Proy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G2",
+            "players": [
+                "pwn",
+                "Kazami_Meiku",
+                "FullMetal",
+                "LaQuille"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G3",
+            "players": [
+                "Kazami_Meiku",
+                "wackforce",
+                "Dreadlord",
+                "pwn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G4",
+            "players": [
+                "wackforce",
+                "FullMetal",
+                "Proy",
+                "Kazami_Meiku"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G5",
+            "players": [
+                "FullMetal",
+                "Dreadlord",
+                "LaQuille",
+                "wackforce"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G6",
+            "players": [
+                "Dreadlord",
+                "Proy",
+                "pwn",
+                "FullMetal"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L11_G7",
+            "players": [
+                "Proy",
+                "LaQuille",
+                "Kazami_Meiku",
+                "Dreadlord"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G1",
+            "players": [
+                "Rasklolnicov",
+                "AnttiT",
+                "Timmi",
+                "tenmore"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G2",
+            "players": [
+                "AnttiT",
+                "covicsam",
+                "Glenw",
+                "Rasklolnicov"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G3",
+            "players": [
+                "covicsam",
+                "Timmi",
+                "yuta",
+                "AnttiT"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G4",
+            "players": [
+                "Timmi",
+                "Glenw",
+                "tenmore",
+                "covicsam"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G5",
+            "players": [
+                "Glenw",
+                "yuta",
+                "Rasklolnicov",
+                "Timmi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G6",
+            "players": [
+                "yuta",
+                "tenmore",
+                "AnttiT",
+                "Glenw"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L12_G7",
+            "players": [
+                "tenmore",
+                "Rasklolnicov",
+                "covicsam",
+                "yuta"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G1",
+            "players": [
+                "modong",
+                "Cane",
+                "sky1ark",
+                "dingbat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G2",
+            "players": [
+                "Cane",
+                "bellosaurus",
+                "beeny",
+                "modong"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G3",
+            "players": [
+                "bellosaurus",
+                "sky1ark",
+                "toyun",
+                "Cane"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G4",
+            "players": [
+                "sky1ark",
+                "beeny",
+                "dingbat",
+                "bellosaurus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G5",
+            "players": [
+                "beeny",
+                "toyun",
+                "modong",
+                "sky1ark"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G6",
+            "players": [
+                "toyun",
+                "dingbat",
+                "Cane",
+                "beeny"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L13_G7",
+            "players": [
+                "dingbat",
+                "modong",
+                "bellosaurus",
+                "toyun"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G1",
+            "players": [
+                "daddybear",
+                "PeteC",
+                "AceTracer",
+                "killerbaer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G2",
+            "players": [
+                "PeteC",
+                "BeanyBoy",
+                "UOP_Champ",
+                "daddybear"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G3",
+            "players": [
+                "BeanyBoy",
+                "AceTracer",
+                "Dirrtymagic",
+                "PeteC"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G4",
+            "players": [
+                "AceTracer",
+                "UOP_Champ",
+                "killerbaer",
+                "BeanyBoy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G5",
+            "players": [
+                "UOP_Champ",
+                "Dirrtymagic",
+                "daddybear",
+                "AceTracer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G6",
+            "players": [
+                "Dirrtymagic",
+                "killerbaer",
+                "PeteC",
+                "UOP_Champ"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L14_G7",
+            "players": [
+                "killerbaer",
+                "daddybear",
+                "BeanyBoy",
+                "Dirrtymagic"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G1",
+            "players": [
+                "brendanjthomson",
+                "leesa",
+                "coyotte508",
+                "SillyWords"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G2",
+            "players": [
+                "leesa",
+                "hanktank",
+                "lek",
+                "brendanjthomson"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G3",
+            "players": [
+                "hanktank",
+                "coyotte508",
+                "molson",
+                "leesa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G4",
+            "players": [
+                "coyotte508",
+                "lek",
+                "SillyWords",
+                "hanktank"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G5",
+            "players": [
+                "lek",
+                "molson",
+                "brendanjthomson",
+                "coyotte508"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G6",
+            "players": [
+                "molson",
+                "SillyWords",
+                "leesa",
+                "lek"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L15_G7",
+            "players": [
+                "SillyWords",
+                "brendanjthomson",
+                "hanktank",
+                "molson"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G1",
+            "players": [
+                "bama",
+                "TerraTurtle",
+                "Rabbits",
+                "DeMondrey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G2",
+            "players": [
+                "TerraTurtle",
+                "Scofftastic",
+                "legba",
+                "bama"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G3",
+            "players": [
+                "Scofftastic",
+                "Rabbits",
+                "bookwyrm86",
+                "TerraTurtle"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G4",
+            "players": [
+                "Rabbits",
+                "legba",
+                "DeMondrey",
+                "Scofftastic"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G5",
+            "players": [
+                "legba",
+                "bookwyrm86",
+                "bama",
+                "Rabbits"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G6",
+            "players": [
+                "bookwyrm86",
+                "DeMondrey",
+                "TerraTurtle",
+                "legba"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D5L16_G7",
+            "players": [
+                "DeMondrey",
+                "bama",
+                "Scofftastic",
+                "bookwyrm86"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G1",
+            "players": [
+                "terraformer",
+                "PapaMaus",
+                "japahenrique",
+                "mdochney"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G2",
+            "players": [
+                "PapaMaus",
+                "aobouzu",
+                "Danny",
+                "terraformer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G3",
+            "players": [
+                "aobouzu",
+                "japahenrique",
+                "battleffs",
+                "PapaMaus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G4",
+            "players": [
+                "japahenrique",
+                "Danny",
+                "mdochney",
+                "aobouzu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G5",
+            "players": [
+                "Danny",
+                "battleffs",
+                "terraformer",
+                "japahenrique"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G6",
+            "players": [
+                "battleffs",
+                "mdochney",
+                "PapaMaus",
+                "Danny"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L1_G7",
+            "players": [
+                "mdochney",
+                "terraformer",
+                "aobouzu",
+                "battleffs"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G1",
+            "players": [
+                "yogibear",
+                "ori",
+                "Elke",
+                "Uri_Meca"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G2",
+            "players": [
+                "ori",
+                "mav",
+                "mustafa",
+                "yogibear"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G3",
+            "players": [
+                "mav",
+                "Elke",
+                "Migelius",
+                "ori"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G4",
+            "players": [
+                "Elke",
+                "mustafa",
+                "Uri_Meca",
+                "mav"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G5",
+            "players": [
+                "mustafa",
+                "Migelius",
+                "yogibear",
+                "Elke"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G6",
+            "players": [
+                "Migelius",
+                "Uri_Meca",
+                "ori",
+                "mustafa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L2_G7",
+            "players": [
+                "Uri_Meca",
+                "yogibear",
+                "mav",
+                "Migelius"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G1",
+            "players": [
+                "013",
+                "chuchu21",
+                "Anemic",
+                "gemini6ice"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G2",
+            "players": [
+                "chuchu21",
+                "postmath",
+                "sebulba128",
+                "013"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G3",
+            "players": [
+                "postmath",
+                "Anemic",
+                "Alfred",
+                "chuchu21"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G4",
+            "players": [
+                "Anemic",
+                "sebulba128",
+                "gemini6ice",
+                "postmath"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G5",
+            "players": [
+                "sebulba128",
+                "Alfred",
+                "013",
+                "Anemic"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G6",
+            "players": [
+                "Alfred",
+                "gemini6ice",
+                "chuchu21",
+                "sebulba128"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L3_G7",
+            "players": [
+                "gemini6ice",
+                "013",
+                "postmath",
+                "Alfred"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G1",
+            "players": [
+                "dagmlar",
+                "Deus-ex-machine",
+                "mnkymn08",
+                "Palather"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G2",
+            "players": [
+                "Deus-ex-machine",
+                "joepunman",
+                "tori",
+                "dagmlar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G3",
+            "players": [
+                "joepunman",
+                "mnkymn08",
+                "Hubbles",
+                "Deus-ex-machine"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G4",
+            "players": [
+                "mnkymn08",
+                "tori",
+                "Palather",
+                "joepunman"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G5",
+            "players": [
+                "tori",
+                "Hubbles",
+                "dagmlar",
+                "mnkymn08"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G6",
+            "players": [
+                "Hubbles",
+                "Palather",
+                "Deus-ex-machine",
+                "tori"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L4_G7",
+            "players": [
+                "Palather",
+                "dagmlar",
+                "joepunman",
+                "Hubbles"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G1",
+            "players": [
+                "kingcrim05",
+                "Nouak",
+                "DominusCaedis",
+                "koralgol"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G2",
+            "players": [
+                "Nouak",
+                "Yfkes",
+                "Vlek55",
+                "kingcrim05"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G3",
+            "players": [
+                "Yfkes",
+                "DominusCaedis",
+                "Turukano",
+                "Nouak"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G4",
+            "players": [
+                "DominusCaedis",
+                "Vlek55",
+                "koralgol",
+                "Yfkes"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G5",
+            "players": [
+                "Vlek55",
+                "Turukano",
+                "kingcrim05",
+                "DominusCaedis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G6",
+            "players": [
+                "Turukano",
+                "koralgol",
+                "Nouak",
+                "Vlek55"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L5_G7",
+            "players": [
+                "koralgol",
+                "kingcrim05",
+                "Yfkes",
+                "Turukano"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G1",
+            "players": [
+                "veenickz",
+                "DePlof",
+                "jerre",
+                "aurel56"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G2",
+            "players": [
+                "DePlof",
+                "theeo",
+                "Orik",
+                "veenickz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G3",
+            "players": [
+                "theeo",
+                "jerre",
+                "jpalmeri",
+                "DePlof"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G4",
+            "players": [
+                "jerre",
+                "Orik",
+                "aurel56",
+                "theeo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G5",
+            "players": [
+                "Orik",
+                "jpalmeri",
+                "veenickz",
+                "jerre"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G6",
+            "players": [
+                "jpalmeri",
+                "aurel56",
+                "DePlof",
+                "Orik"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L6_G7",
+            "players": [
+                "aurel56",
+                "veenickz",
+                "theeo",
+                "jpalmeri"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G1",
+            "players": [
+                "Agent86",
+                "hweecat",
+                "Saetin",
+                "tanshu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G2",
+            "players": [
+                "hweecat",
+                "opapa",
+                "Montagne",
+                "Agent86"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G3",
+            "players": [
+                "opapa",
+                "Saetin",
+                "PrincipeKonrad",
+                "hweecat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G4",
+            "players": [
+                "Saetin",
+                "Montagne",
+                "tanshu",
+                "opapa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G5",
+            "players": [
+                "Montagne",
+                "PrincipeKonrad",
+                "Agent86",
+                "Saetin"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G6",
+            "players": [
+                "PrincipeKonrad",
+                "tanshu",
+                "hweecat",
+                "Montagne"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L7_G7",
+            "players": [
+                "tanshu",
+                "Agent86",
+                "opapa",
+                "PrincipeKonrad"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G1",
+            "players": [
+                "fershidum",
+                "patillades",
+                "farinier",
+                "gcampane"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G2",
+            "players": [
+                "patillades",
+                "LumpySpacePrincess",
+                "Loewe",
+                "fershidum"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G3",
+            "players": [
+                "LumpySpacePrincess",
+                "farinier",
+                "cletus",
+                "patillades"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G4",
+            "players": [
+                "farinier",
+                "Loewe",
+                "gcampane",
+                "LumpySpacePrincess"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G5",
+            "players": [
+                "Loewe",
+                "cletus",
+                "fershidum",
+                "farinier"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G6",
+            "players": [
+                "cletus",
+                "gcampane",
+                "patillades",
+                "Loewe"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L8_G7",
+            "players": [
+                "gcampane",
+                "fershidum",
+                "LumpySpacePrincess",
+                "cletus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G1",
+            "players": [
+                "Fatcat",
+                "Meikel",
+                "belette7",
+                "Perno"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G2",
+            "players": [
+                "Meikel",
+                "pesky",
+                "AnythingForMarcello",
+                "Fatcat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G3",
+            "players": [
+                "pesky",
+                "belette7",
+                "terratuur",
+                "Meikel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G4",
+            "players": [
+                "belette7",
+                "AnythingForMarcello",
+                "Perno",
+                "pesky"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G5",
+            "players": [
+                "AnythingForMarcello",
+                "terratuur",
+                "Fatcat",
+                "belette7"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G6",
+            "players": [
+                "terratuur",
+                "Perno",
+                "Meikel",
+                "AnythingForMarcello"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L9_G7",
+            "players": [
+                "Perno",
+                "Fatcat",
+                "pesky",
+                "terratuur"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G1",
+            "players": [
+                "Imhullu",
+                "woenie_de_pieh",
+                "Encubed",
+                "bcgett01"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G2",
+            "players": [
+                "woenie_de_pieh",
+                "Nissi",
+                "kjduffy",
+                "Imhullu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G3",
+            "players": [
+                "Nissi",
+                "Encubed",
+                "Lay_May_",
+                "woenie_de_pieh"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G4",
+            "players": [
+                "Encubed",
+                "kjduffy",
+                "bcgett01",
+                "Nissi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G5",
+            "players": [
+                "kjduffy",
+                "Lay_May_",
+                "Imhullu",
+                "Encubed"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G6",
+            "players": [
+                "Lay_May_",
+                "bcgett01",
+                "woenie_de_pieh",
+                "kjduffy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L10_G7",
+            "players": [
+                "bcgett01",
+                "Imhullu",
+                "Nissi",
+                "Lay_May_"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G1",
+            "players": [
+                "analemma2345",
+                "euming",
+                "DGoldDragon28",
+                "eMps"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G2",
+            "players": [
+                "euming",
+                "Umbratus",
+                "schloetterer",
+                "analemma2345"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G3",
+            "players": [
+                "Umbratus",
+                "DGoldDragon28",
+                "Scops",
+                "euming"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G4",
+            "players": [
+                "DGoldDragon28",
+                "schloetterer",
+                "eMps",
+                "Umbratus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G5",
+            "players": [
+                "schloetterer",
+                "Scops",
+                "analemma2345",
+                "DGoldDragon28"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G6",
+            "players": [
+                "Scops",
+                "eMps",
+                "euming",
+                "schloetterer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L11_G7",
+            "players": [
+                "eMps",
+                "analemma2345",
+                "Umbratus",
+                "Scops"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G1",
+            "players": [
+                "bawlzdeep",
+                "Rogan",
+                "kandesbunzler",
+                "sqrat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G2",
+            "players": [
+                "Rogan",
+                "aquillo",
+                "nphsmith",
+                "bawlzdeep"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G3",
+            "players": [
+                "aquillo",
+                "kandesbunzler",
+                "grifis",
+                "Rogan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G4",
+            "players": [
+                "kandesbunzler",
+                "nphsmith",
+                "sqrat",
+                "aquillo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G5",
+            "players": [
+                "nphsmith",
+                "grifis",
+                "bawlzdeep",
+                "kandesbunzler"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G6",
+            "players": [
+                "grifis",
+                "sqrat",
+                "Rogan",
+                "nphsmith"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L12_G7",
+            "players": [
+                "sqrat",
+                "bawlzdeep",
+                "aquillo",
+                "grifis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G1",
+            "players": [
+                "sassypants",
+                "darrengrey",
+                "KevKevOnFire",
+                "Ado"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G2",
+            "players": [
+                "darrengrey",
+                "rose.as.romeo",
+                "keiis",
+                "sassypants"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G3",
+            "players": [
+                "rose.as.romeo",
+                "KevKevOnFire",
+                "csander1",
+                "darrengrey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G4",
+            "players": [
+                "KevKevOnFire",
+                "keiis",
+                "Ado",
+                "rose.as.romeo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G5",
+            "players": [
+                "keiis",
+                "csander1",
+                "sassypants",
+                "KevKevOnFire"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G6",
+            "players": [
+                "csander1",
+                "Ado",
+                "darrengrey",
+                "keiis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L13_G7",
+            "players": [
+                "Ado",
+                "sassypants",
+                "rose.as.romeo",
+                "csander1"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G1",
+            "players": [
+                "nagadon",
+                "Pralaya",
+                "Jack-Spirio",
+                "atharrin"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G2",
+            "players": [
+                "Pralaya",
+                "Marianna",
+                "Latias90",
+                "nagadon"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G3",
+            "players": [
+                "Marianna",
+                "Jack-Spirio",
+                "FindTracks",
+                "Pralaya"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G4",
+            "players": [
+                "Jack-Spirio",
+                "Latias90",
+                "atharrin",
+                "Marianna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G5",
+            "players": [
+                "Latias90",
+                "FindTracks",
+                "nagadon",
+                "Jack-Spirio"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G6",
+            "players": [
+                "FindTracks",
+                "atharrin",
+                "Pralaya",
+                "Latias90"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L14_G7",
+            "players": [
+                "atharrin",
+                "nagadon",
+                "Marianna",
+                "FindTracks"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G1",
+            "players": [
+                "BravePawn",
+                "squeakyboy",
+                "tarcieturbo",
+                "maryjane"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G2",
+            "players": [
+                "squeakyboy",
+                "froictor",
+                "LokiAkatsuki",
+                "BravePawn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G3",
+            "players": [
+                "froictor",
+                "tarcieturbo",
+                "Alfie",
+                "squeakyboy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G4",
+            "players": [
+                "tarcieturbo",
+                "LokiAkatsuki",
+                "maryjane",
+                "froictor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G5",
+            "players": [
+                "LokiAkatsuki",
+                "Alfie",
+                "BravePawn",
+                "tarcieturbo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G6",
+            "players": [
+                "Alfie",
+                "maryjane",
+                "squeakyboy",
+                "LokiAkatsuki"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L15_G7",
+            "players": [
+                "maryjane",
+                "BravePawn",
+                "froictor",
+                "Alfie"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G1",
+            "players": [
+                "maitrevodka",
+                "andersonpoli",
+                "Halskov",
+                "TheBigLebrewski"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G2",
+            "players": [
+                "andersonpoli",
+                "Koldstare",
+                "hilbert",
+                "maitrevodka"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G3",
+            "players": [
+                "Koldstare",
+                "Halskov",
+                "CimmiC",
+                "andersonpoli"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G4",
+            "players": [
+                "Halskov",
+                "hilbert",
+                "TheBigLebrewski",
+                "Koldstare"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G5",
+            "players": [
+                "hilbert",
+                "CimmiC",
+                "maitrevodka",
+                "Halskov"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G6",
+            "players": [
+                "CimmiC",
+                "TheBigLebrewski",
+                "andersonpoli",
+                "hilbert"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L16_G7",
+            "players": [
+                "TheBigLebrewski",
+                "maitrevodka",
+                "Koldstare",
+                "CimmiC"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G1",
+            "players": [
+                "markusA",
+                "KaizenZ",
+                "Fornberg",
+                "devilchn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G2",
+            "players": [
+                "KaizenZ",
+                "RCFurtado",
+                "Salmur",
+                "markusA"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G3",
+            "players": [
+                "RCFurtado",
+                "Fornberg",
+                "erkkilukki",
+                "KaizenZ"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G4",
+            "players": [
+                "Fornberg",
+                "Salmur",
+                "devilchn",
+                "RCFurtado"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G5",
+            "players": [
+                "Salmur",
+                "erkkilukki",
+                "markusA",
+                "Fornberg"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G6",
+            "players": [
+                "erkkilukki",
+                "devilchn",
+                "KaizenZ",
+                "Salmur"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L17_G7",
+            "players": [
+                "devilchn",
+                "markusA",
+                "RCFurtado",
+                "erkkilukki"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G1",
+            "players": [
+                "Missu",
+                "Dimvegas",
+                "mlihn",
+                "ocollard"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G2",
+            "players": [
+                "Dimvegas",
+                "KnightWhoSaysNi",
+                "doorakist",
+                "Missu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G3",
+            "players": [
+                "KnightWhoSaysNi",
+                "mlihn",
+                "urqheart",
+                "Dimvegas"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G4",
+            "players": [
+                "mlihn",
+                "doorakist",
+                "ocollard",
+                "KnightWhoSaysNi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G5",
+            "players": [
+                "doorakist",
+                "urqheart",
+                "Missu",
+                "mlihn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G6",
+            "players": [
+                "urqheart",
+                "ocollard",
+                "Dimvegas",
+                "doorakist"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L18_G7",
+            "players": [
+                "ocollard",
+                "Missu",
+                "KnightWhoSaysNi",
+                "urqheart"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G1",
+            "players": [
+                "Darkkan",
+                "lcg3092",
+                "lorobode",
+                "pablocg"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G2",
+            "players": [
+                "lcg3092",
+                "Fujiwara",
+                "silkhatter",
+                "Darkkan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G3",
+            "players": [
+                "Fujiwara",
+                "lorobode",
+                "ashallue",
+                "lcg3092"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G4",
+            "players": [
+                "lorobode",
+                "silkhatter",
+                "pablocg",
+                "Fujiwara"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G5",
+            "players": [
+                "silkhatter",
+                "ashallue",
+                "Darkkan",
+                "lorobode"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G6",
+            "players": [
+                "ashallue",
+                "pablocg",
+                "lcg3092",
+                "silkhatter"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L19_G7",
+            "players": [
+                "pablocg",
+                "Darkkan",
+                "Fujiwara",
+                "ashallue"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G1",
+            "players": [
+                "otb",
+                "eldibujante",
+                "cfiedle1",
+                "Apdsouza"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G2",
+            "players": [
+                "eldibujante",
+                "Missow",
+                "kruppy",
+                "otb"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G3",
+            "players": [
+                "Missow",
+                "cfiedle1",
+                "MOTDF",
+                "eldibujante"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G4",
+            "players": [
+                "cfiedle1",
+                "kruppy",
+                "Apdsouza",
+                "Missow"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G5",
+            "players": [
+                "kruppy",
+                "MOTDF",
+                "otb",
+                "cfiedle1"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G6",
+            "players": [
+                "MOTDF",
+                "Apdsouza",
+                "eldibujante",
+                "kruppy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L20_G7",
+            "players": [
+                "Apdsouza",
+                "otb",
+                "Missow",
+                "MOTDF"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G1",
+            "players": [
+                "pumapungente",
+                "grisu",
+                "Iago71",
+                "hilather"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G2",
+            "players": [
+                "grisu",
+                "Steevieweeviewoo",
+                "Hitman8D",
+                "pumapungente"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G3",
+            "players": [
+                "Steevieweeviewoo",
+                "Iago71",
+                "mesterlars",
+                "grisu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G4",
+            "players": [
+                "Iago71",
+                "Hitman8D",
+                "hilather",
+                "Steevieweeviewoo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G5",
+            "players": [
+                "Hitman8D",
+                "mesterlars",
+                "pumapungente",
+                "Iago71"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G6",
+            "players": [
+                "mesterlars",
+                "hilather",
+                "grisu",
+                "Hitman8D"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L21_G7",
+            "players": [
+                "hilather",
+                "pumapungente",
+                "Steevieweeviewoo",
+                "mesterlars"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G1",
+            "players": [
+                "renegade",
+                "brownsfan981",
+                "Heaven",
+                "Ocki"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G2",
+            "players": [
+                "brownsfan981",
+                "Terra",
+                "BabyGurl",
+                "renegade"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G3",
+            "players": [
+                "Terra",
+                "Heaven",
+                "Geronimo",
+                "brownsfan981"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G4",
+            "players": [
+                "Heaven",
+                "BabyGurl",
+                "Ocki",
+                "Terra"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G5",
+            "players": [
+                "BabyGurl",
+                "Geronimo",
+                "renegade",
+                "Heaven"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G6",
+            "players": [
+                "Geronimo",
+                "Ocki",
+                "brownsfan981",
+                "BabyGurl"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L22_G7",
+            "players": [
+                "Ocki",
+                "renegade",
+                "Terra",
+                "Geronimo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G1",
+            "players": [
+                "Overlords",
+                "MystiKen",
+                "Shakes",
+                "RiffRaff14"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G2",
+            "players": [
+                "MystiKen",
+                "Lathino",
+                "DocCool",
+                "Overlords"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G3",
+            "players": [
+                "Lathino",
+                "Shakes",
+                "Rincewind",
+                "MystiKen"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G4",
+            "players": [
+                "Shakes",
+                "DocCool",
+                "RiffRaff14",
+                "Lathino"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G5",
+            "players": [
+                "DocCool",
+                "Rincewind",
+                "Overlords",
+                "Shakes"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G6",
+            "players": [
+                "Rincewind",
+                "RiffRaff14",
+                "MystiKen",
+                "DocCool"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L23_G7",
+            "players": [
+                "RiffRaff14",
+                "Overlords",
+                "Lathino",
+                "Rincewind"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G1",
+            "players": [
+                "Pompkin",
+                "Alpha-Omega",
+                "rbcorbett",
+                "demiurgsage"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G2",
+            "players": [
+                "Alpha-Omega",
+                "mharris717",
+                "Lowecore",
+                "Pompkin"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G3",
+            "players": [
+                "mharris717",
+                "rbcorbett",
+                "shutzy",
+                "Alpha-Omega"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G4",
+            "players": [
+                "rbcorbett",
+                "Lowecore",
+                "demiurgsage",
+                "mharris717"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G5",
+            "players": [
+                "Lowecore",
+                "shutzy",
+                "Pompkin",
+                "rbcorbett"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G6",
+            "players": [
+                "shutzy",
+                "demiurgsage",
+                "Alpha-Omega",
+                "Lowecore"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L24_G7",
+            "players": [
+                "demiurgsage",
+                "Pompkin",
+                "mharris717",
+                "shutzy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G1",
+            "players": [
+                "JSF",
+                "Baotus",
+                "Schlumpf",
+                "bpt"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G2",
+            "players": [
+                "Baotus",
+                "DimTim",
+                "dailydarkling",
+                "JSF"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G3",
+            "players": [
+                "DimTim",
+                "Schlumpf",
+                "PerOlander",
+                "Baotus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G4",
+            "players": [
+                "Schlumpf",
+                "dailydarkling",
+                "bpt",
+                "DimTim"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G5",
+            "players": [
+                "dailydarkling",
+                "PerOlander",
+                "JSF",
+                "Schlumpf"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G6",
+            "players": [
+                "PerOlander",
+                "bpt",
+                "Baotus",
+                "dailydarkling"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L25_G7",
+            "players": [
+                "bpt",
+                "JSF",
+                "DimTim",
+                "PerOlander"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G1",
+            "players": [
+                "Teahuclem",
+                "Meph",
+                "JIMM",
+                "Bakoud"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G2",
+            "players": [
+                "Meph",
+                "jwi",
+                "firexed",
+                "Teahuclem"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G3",
+            "players": [
+                "jwi",
+                "JIMM",
+                "Zeitenwandler",
+                "Meph"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G4",
+            "players": [
+                "JIMM",
+                "firexed",
+                "Bakoud",
+                "jwi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G5",
+            "players": [
+                "firexed",
+                "Zeitenwandler",
+                "Teahuclem",
+                "JIMM"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G6",
+            "players": [
+                "Zeitenwandler",
+                "Bakoud",
+                "Meph",
+                "firexed"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L26_G7",
+            "players": [
+                "Bakoud",
+                "Teahuclem",
+                "jwi",
+                "Zeitenwandler"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G1",
+            "players": [
+                "Antero",
+                "loike",
+                "luoye1231",
+                "Markmasters"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G2",
+            "players": [
+                "loike",
+                "gleipnil",
+                "Marcelo",
+                "Antero"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G3",
+            "players": [
+                "gleipnil",
+                "luoye1231",
+                "mobilecad",
+                "loike"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G4",
+            "players": [
+                "luoye1231",
+                "Marcelo",
+                "Markmasters",
+                "gleipnil"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G5",
+            "players": [
+                "Marcelo",
+                "mobilecad",
+                "Antero",
+                "luoye1231"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G6",
+            "players": [
+                "mobilecad",
+                "Markmasters",
+                "loike",
+                "Marcelo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L27_G7",
+            "players": [
+                "Markmasters",
+                "Antero",
+                "gleipnil",
+                "mobilecad"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G1",
+            "players": [
+                "goreshde",
+                "vengeful",
+                "carpbug",
+                "diegosmendes"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G2",
+            "players": [
+                "vengeful",
+                "Pri",
+                "Nidhoegg",
+                "goreshde"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G3",
+            "players": [
+                "Pri",
+                "carpbug",
+                "eingewinner",
+                "vengeful"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G4",
+            "players": [
+                "carpbug",
+                "Nidhoegg",
+                "diegosmendes",
+                "Pri"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G5",
+            "players": [
+                "Nidhoegg",
+                "eingewinner",
+                "goreshde",
+                "carpbug"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G6",
+            "players": [
+                "eingewinner",
+                "diegosmendes",
+                "vengeful",
+                "Nidhoegg"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L28_G7",
+            "players": [
+                "diegosmendes",
+                "goreshde",
+                "Pri",
+                "eingewinner"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G1",
+            "players": [
+                "Maestro",
+                "Ominac",
+                "BlackSea",
+                "SlothNinja"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G2",
+            "players": [
+                "Ominac",
+                "Aigald",
+                "jwdenny13",
+                "Maestro"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G3",
+            "players": [
+                "Aigald",
+                "BlackSea",
+                "so2luna",
+                "Ominac"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G4",
+            "players": [
+                "BlackSea",
+                "jwdenny13",
+                "SlothNinja",
+                "Aigald"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G5",
+            "players": [
+                "jwdenny13",
+                "so2luna",
+                "Maestro",
+                "BlackSea"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G6",
+            "players": [
+                "so2luna",
+                "SlothNinja",
+                "Ominac",
+                "jwdenny13"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L29_G7",
+            "players": [
+                "SlothNinja",
+                "Maestro",
+                "Aigald",
+                "so2luna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G1",
+            "players": [
+                "TwitchBot",
+                "gnpaolo",
+                "GregVL",
+                "poissaroux"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G2",
+            "players": [
+                "gnpaolo",
+                "kion",
+                "r",
+                "TwitchBot"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G3",
+            "players": [
+                "kion",
+                "GregVL",
+                "kitano",
+                "gnpaolo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G4",
+            "players": [
+                "GregVL",
+                "r",
+                "poissaroux",
+                "kion"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G5",
+            "players": [
+                "r",
+                "kitano",
+                "TwitchBot",
+                "GregVL"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G6",
+            "players": [
+                "kitano",
+                "poissaroux",
+                "gnpaolo",
+                "r"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L30_G7",
+            "players": [
+                "poissaroux",
+                "TwitchBot",
+                "kion",
+                "kitano"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G1",
+            "players": [
+                "hersh",
+                "Bleicher",
+                "kyoflare",
+                "fontinalis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G2",
+            "players": [
+                "Bleicher",
+                "gpaparelli",
+                "kwadswor",
+                "hersh"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G3",
+            "players": [
+                "gpaparelli",
+                "kyoflare",
+                "teytanna",
+                "Bleicher"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G4",
+            "players": [
+                "kyoflare",
+                "kwadswor",
+                "fontinalis",
+                "gpaparelli"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G5",
+            "players": [
+                "kwadswor",
+                "teytanna",
+                "hersh",
+                "kyoflare"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G6",
+            "players": [
+                "teytanna",
+                "fontinalis",
+                "Bleicher",
+                "kwadswor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L31_G7",
+            "players": [
+                "fontinalis",
+                "hersh",
+                "gpaparelli",
+                "teytanna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G1",
+            "players": [
+                "westptr",
+                "sly-sama",
+                "enkidu",
+                "bruichriach"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G2",
+            "players": [
+                "sly-sama",
+                "iMarque",
+                "Spigoethe",
+                "westptr"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G3",
+            "players": [
+                "iMarque",
+                "enkidu",
+                "randomuser",
+                "sly-sama"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G4",
+            "players": [
+                "enkidu",
+                "Spigoethe",
+                "bruichriach",
+                "iMarque"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G5",
+            "players": [
+                "Spigoethe",
+                "randomuser",
+                "westptr",
+                "enkidu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G6",
+            "players": [
+                "randomuser",
+                "bruichriach",
+                "sly-sama",
+                "Spigoethe"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D6L32_G7",
+            "players": [
+                "bruichriach",
+                "westptr",
+                "iMarque",
+                "randomuser"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G1",
+            "players": [
+                "Bossi",
+                "thebabymaker",
+                "Theroy4",
+                "yekoc"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G2",
+            "players": [
+                "thebabymaker",
+                "Balise",
+                "champj",
+                "Bossi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G3",
+            "players": [
+                "Balise",
+                "Theroy4",
+                "Photogus",
+                "thebabymaker"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G4",
+            "players": [
+                "Theroy4",
+                "champj",
+                "yekoc",
+                "Balise"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G5",
+            "players": [
+                "champj",
+                "Photogus",
+                "Bossi",
+                "Theroy4"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G6",
+            "players": [
+                "Photogus",
+                "yekoc",
+                "thebabymaker",
+                "champj"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L1_G7",
+            "players": [
+                "yekoc",
+                "Bossi",
+                "Balise",
+                "Photogus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G1",
+            "players": [
+                "symmer",
+                "koleman2",
+                "Magicdeer",
+                "Pegasuskill"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G2",
+            "players": [
+                "koleman2",
+                "dans",
+                "Odar",
+                "symmer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G3",
+            "players": [
+                "dans",
+                "Magicdeer",
+                "mintroll",
+                "koleman2"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G4",
+            "players": [
+                "Magicdeer",
+                "Odar",
+                "Pegasuskill",
+                "dans"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G5",
+            "players": [
+                "Odar",
+                "mintroll",
+                "symmer",
+                "Magicdeer"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G6",
+            "players": [
+                "mintroll",
+                "Pegasuskill",
+                "koleman2",
+                "Odar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L2_G7",
+            "players": [
+                "Pegasuskill",
+                "symmer",
+                "dans",
+                "mintroll"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G1",
+            "players": [
+                "Cadence",
+                "Illotus",
+                "Pey",
+                "kakyou"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G2",
+            "players": [
+                "Illotus",
+                "Erindel",
+                "gordzed",
+                "Cadence"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G3",
+            "players": [
+                "Erindel",
+                "Pey",
+                "cstanoch",
+                "Illotus"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G4",
+            "players": [
+                "Pey",
+                "gordzed",
+                "kakyou",
+                "Erindel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G5",
+            "players": [
+                "gordzed",
+                "cstanoch",
+                "Cadence",
+                "Pey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G6",
+            "players": [
+                "cstanoch",
+                "kakyou",
+                "Illotus",
+                "gordzed"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L3_G7",
+            "players": [
+                "kakyou",
+                "Cadence",
+                "Erindel",
+                "cstanoch"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G1",
+            "players": [
+                "GhostEgg",
+                "Xorvath",
+                "Wkun",
+                "Big.Waters"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G2",
+            "players": [
+                "Xorvath",
+                "justin212k",
+                "selecsosi",
+                "GhostEgg"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G3",
+            "players": [
+                "justin212k",
+                "Wkun",
+                "DerMahler",
+                "Xorvath"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G4",
+            "players": [
+                "Wkun",
+                "selecsosi",
+                "Big.Waters",
+                "justin212k"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G5",
+            "players": [
+                "selecsosi",
+                "DerMahler",
+                "GhostEgg",
+                "Wkun"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G6",
+            "players": [
+                "DerMahler",
+                "Big.Waters",
+                "Xorvath",
+                "selecsosi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L4_G7",
+            "players": [
+                "Big.Waters",
+                "GhostEgg",
+                "justin212k",
+                "DerMahler"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G1",
+            "players": [
+                "paradox365",
+                "Dwightlings",
+                "DrFil",
+                "mjk"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G2",
+            "players": [
+                "Dwightlings",
+                "emis",
+                "00",
+                "paradox365"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G3",
+            "players": [
+                "emis",
+                "DrFil",
+                "sho",
+                "Dwightlings"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G4",
+            "players": [
+                "DrFil",
+                "00",
+                "mjk",
+                "emis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G5",
+            "players": [
+                "00",
+                "sho",
+                "paradox365",
+                "DrFil"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G6",
+            "players": [
+                "sho",
+                "mjk",
+                "Dwightlings",
+                "00"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L5_G7",
+            "players": [
+                "mjk",
+                "paradox365",
+                "emis",
+                "sho"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G1",
+            "players": [
+                "manko",
+                "FoShizzy708",
+                "MangeUnDindon",
+                "Cocobanjo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G2",
+            "players": [
+                "FoShizzy708",
+                "lieke88",
+                "yancy714",
+                "manko"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G3",
+            "players": [
+                "lieke88",
+                "MangeUnDindon",
+                "ziggi",
+                "FoShizzy708"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G4",
+            "players": [
+                "MangeUnDindon",
+                "yancy714",
+                "Cocobanjo",
+                "lieke88"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G5",
+            "players": [
+                "yancy714",
+                "ziggi",
+                "manko",
+                "MangeUnDindon"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G6",
+            "players": [
+                "ziggi",
+                "Cocobanjo",
+                "FoShizzy708",
+                "yancy714"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L6_G7",
+            "players": [
+                "Cocobanjo",
+                "manko",
+                "lieke88",
+                "ziggi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G1",
+            "players": [
+                "Dam",
+                "bobacles",
+                "VoltHi",
+                "mahatmamanic"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G2",
+            "players": [
+                "bobacles",
+                "pyhuang",
+                "putan",
+                "Dam"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G3",
+            "players": [
+                "pyhuang",
+                "VoltHi",
+                "drizzle",
+                "bobacles"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G4",
+            "players": [
+                "VoltHi",
+                "putan",
+                "mahatmamanic",
+                "pyhuang"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G5",
+            "players": [
+                "putan",
+                "drizzle",
+                "Dam",
+                "VoltHi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G6",
+            "players": [
+                "drizzle",
+                "mahatmamanic",
+                "bobacles",
+                "putan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L7_G7",
+            "players": [
+                "mahatmamanic",
+                "Dam",
+                "pyhuang",
+                "drizzle"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G1",
+            "players": [
+                "gilgatex",
+                "mcelhinp",
+                "Haranban",
+                "BigfootDC"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G2",
+            "players": [
+                "mcelhinp",
+                "bazyn",
+                "bcgraham",
+                "gilgatex"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G3",
+            "players": [
+                "bazyn",
+                "Haranban",
+                "catalyst6500",
+                "mcelhinp"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G4",
+            "players": [
+                "Haranban",
+                "bcgraham",
+                "BigfootDC",
+                "bazyn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G5",
+            "players": [
+                "bcgraham",
+                "catalyst6500",
+                "gilgatex",
+                "Haranban"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G6",
+            "players": [
+                "catalyst6500",
+                "BigfootDC",
+                "mcelhinp",
+                "bcgraham"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L8_G7",
+            "players": [
+                "BigfootDC",
+                "gilgatex",
+                "bazyn",
+                "catalyst6500"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G1",
+            "players": [
+                "Ereni",
+                "RoboZoom",
+                "elftor",
+                "brinneroliveira"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G2",
+            "players": [
+                "RoboZoom",
+                "kalandro",
+                "ibtim80",
+                "Ereni"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G3",
+            "players": [
+                "kalandro",
+                "elftor",
+                "Grawen",
+                "RoboZoom"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G4",
+            "players": [
+                "elftor",
+                "ibtim80",
+                "brinneroliveira",
+                "kalandro"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G5",
+            "players": [
+                "ibtim80",
+                "Grawen",
+                "Ereni",
+                "elftor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G6",
+            "players": [
+                "Grawen",
+                "brinneroliveira",
+                "RoboZoom",
+                "ibtim80"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L9_G7",
+            "players": [
+                "brinneroliveira",
+                "Ereni",
+                "kalandro",
+                "Grawen"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G1",
+            "players": [
+                "ljazz7",
+                "Ratanoch",
+                "cfltdf",
+                "insertcoin1"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G2",
+            "players": [
+                "Ratanoch",
+                "adaglez",
+                "marcusesses",
+                "ljazz7"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G3",
+            "players": [
+                "adaglez",
+                "cfltdf",
+                "thechun",
+                "Ratanoch"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G4",
+            "players": [
+                "cfltdf",
+                "marcusesses",
+                "insertcoin1",
+                "adaglez"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G5",
+            "players": [
+                "marcusesses",
+                "thechun",
+                "ljazz7",
+                "cfltdf"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G6",
+            "players": [
+                "thechun",
+                "insertcoin1",
+                "Ratanoch",
+                "marcusesses"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L10_G7",
+            "players": [
+                "insertcoin1",
+                "ljazz7",
+                "adaglez",
+                "thechun"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G1",
+            "players": [
+                "heinzy57",
+                "ristvan",
+                "ryandfisher",
+                "tauel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G2",
+            "players": [
+                "ristvan",
+                "TsmackJ",
+                "vestrada",
+                "heinzy57"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G3",
+            "players": [
+                "TsmackJ",
+                "ryandfisher",
+                "Reez",
+                "ristvan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G4",
+            "players": [
+                "ryandfisher",
+                "vestrada",
+                "tauel",
+                "TsmackJ"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G5",
+            "players": [
+                "vestrada",
+                "Reez",
+                "heinzy57",
+                "ryandfisher"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G6",
+            "players": [
+                "Reez",
+                "tauel",
+                "ristvan",
+                "vestrada"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L11_G7",
+            "players": [
+                "tauel",
+                "heinzy57",
+                "TsmackJ",
+                "Reez"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G1",
+            "players": [
+                "boiaak",
+                "MacAttack88",
+                "MockingWorm",
+                "strongpoet"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G2",
+            "players": [
+                "MacAttack88",
+                "silent",
+                "Dejopero",
+                "boiaak"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G3",
+            "players": [
+                "silent",
+                "MockingWorm",
+                "rafaroots",
+                "MacAttack88"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G4",
+            "players": [
+                "MockingWorm",
+                "Dejopero",
+                "strongpoet",
+                "silent"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G5",
+            "players": [
+                "Dejopero",
+                "rafaroots",
+                "boiaak",
+                "MockingWorm"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G6",
+            "players": [
+                "rafaroots",
+                "strongpoet",
+                "MacAttack88",
+                "Dejopero"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L12_G7",
+            "players": [
+                "strongpoet",
+                "boiaak",
+                "silent",
+                "rafaroots"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G1",
+            "players": [
+                "Ferb",
+                "ushem",
+                "Jeykop",
+                "Dexsting"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G2",
+            "players": [
+                "ushem",
+                "wasabah",
+                "Brizz",
+                "Ferb"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G3",
+            "players": [
+                "wasabah",
+                "Jeykop",
+                "katy",
+                "ushem"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G4",
+            "players": [
+                "Jeykop",
+                "Brizz",
+                "Dexsting",
+                "wasabah"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G5",
+            "players": [
+                "Brizz",
+                "katy",
+                "Ferb",
+                "Jeykop"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G6",
+            "players": [
+                "katy",
+                "Dexsting",
+                "ushem",
+                "Brizz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L13_G7",
+            "players": [
+                "Dexsting",
+                "Ferb",
+                "wasabah",
+                "katy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G1",
+            "players": [
+                "Jafe",
+                "DalliX",
+                "dingostar",
+                "gakaiser"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G2",
+            "players": [
+                "DalliX",
+                "Leta",
+                "midav65",
+                "Jafe"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G3",
+            "players": [
+                "Leta",
+                "dingostar",
+                "rofler",
+                "DalliX"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G4",
+            "players": [
+                "dingostar",
+                "midav65",
+                "gakaiser",
+                "Leta"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G5",
+            "players": [
+                "midav65",
+                "rofler",
+                "Jafe",
+                "dingostar"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G6",
+            "players": [
+                "rofler",
+                "gakaiser",
+                "DalliX",
+                "midav65"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L14_G7",
+            "players": [
+                "gakaiser",
+                "Jafe",
+                "Leta",
+                "rofler"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G1",
+            "players": [
+                "Elflaco11000",
+                "nemorendil",
+                "Chizuna",
+                "Horas1980"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G2",
+            "players": [
+                "nemorendil",
+                "Tsuyuri",
+                "Gocolts",
+                "Elflaco11000"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G3",
+            "players": [
+                "Tsuyuri",
+                "Chizuna",
+                "test",
+                "nemorendil"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G4",
+            "players": [
+                "Chizuna",
+                "Gocolts",
+                "Horas1980",
+                "Tsuyuri"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G5",
+            "players": [
+                "Gocolts",
+                "test",
+                "Elflaco11000",
+                "Chizuna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G6",
+            "players": [
+                "test",
+                "Horas1980",
+                "nemorendil",
+                "Gocolts"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L15_G7",
+            "players": [
+                "Horas1980",
+                "Elflaco11000",
+                "Tsuyuri",
+                "test"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G1",
+            "players": [
+                "Tsbasa",
+                "SunJester",
+                "Syliael",
+                "adiamant"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G2",
+            "players": [
+                "SunJester",
+                "terrabyte",
+                "Peaudefleur",
+                "Tsbasa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G3",
+            "players": [
+                "terrabyte",
+                "Syliael",
+                "calvino",
+                "SunJester"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G4",
+            "players": [
+                "Syliael",
+                "Peaudefleur",
+                "adiamant",
+                "terrabyte"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G5",
+            "players": [
+                "Peaudefleur",
+                "calvino",
+                "Tsbasa",
+                "Syliael"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G6",
+            "players": [
+                "calvino",
+                "adiamant",
+                "SunJester",
+                "Peaudefleur"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L16_G7",
+            "players": [
+                "adiamant",
+                "Tsbasa",
+                "terrabyte",
+                "calvino"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G1",
+            "players": [
+                "JessieRedball",
+                "ktk",
+                "Nenaunir",
+                "HayatoK01"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G2",
+            "players": [
+                "ktk",
+                "ingevervoordeldonk",
+                "Arvid",
+                "JessieRedball"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G3",
+            "players": [
+                "ingevervoordeldonk",
+                "Nenaunir",
+                "velvetvoulge",
+                "ktk"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G4",
+            "players": [
+                "Nenaunir",
+                "Arvid",
+                "HayatoK01",
+                "ingevervoordeldonk"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G5",
+            "players": [
+                "Arvid",
+                "velvetvoulge",
+                "JessieRedball",
+                "Nenaunir"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G6",
+            "players": [
+                "velvetvoulge",
+                "HayatoK01",
+                "ktk",
+                "Arvid"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L17_G7",
+            "players": [
+                "HayatoK01",
+                "JessieRedball",
+                "ingevervoordeldonk",
+                "velvetvoulge"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G1",
+            "players": [
+                "kaladinstormblessed",
+                "weehoo",
+                "lopezdelaosa",
+                "Alilarmusa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G2",
+            "players": [
+                "weehoo",
+                "nash",
+                "Blok",
+                "kaladinstormblessed"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G3",
+            "players": [
+                "nash",
+                "lopezdelaosa",
+                "cagreat1",
+                "weehoo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G4",
+            "players": [
+                "lopezdelaosa",
+                "Blok",
+                "Alilarmusa",
+                "nash"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G5",
+            "players": [
+                "Blok",
+                "cagreat1",
+                "kaladinstormblessed",
+                "lopezdelaosa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G6",
+            "players": [
+                "cagreat1",
+                "Alilarmusa",
+                "weehoo",
+                "Blok"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L18_G7",
+            "players": [
+                "Alilarmusa",
+                "kaladinstormblessed",
+                "nash",
+                "cagreat1"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G1",
+            "players": [
+                "faihme",
+                "oldmonk",
+                "ecspiegel",
+                "Jus-johnny"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G2",
+            "players": [
+                "oldmonk",
+                "dragonearth",
+                "rainbowjoe",
+                "faihme"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G3",
+            "players": [
+                "dragonearth",
+                "ecspiegel",
+                "star",
+                "oldmonk"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G4",
+            "players": [
+                "ecspiegel",
+                "rainbowjoe",
+                "Jus-johnny",
+                "dragonearth"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G5",
+            "players": [
+                "rainbowjoe",
+                "star",
+                "faihme",
+                "ecspiegel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G6",
+            "players": [
+                "star",
+                "Jus-johnny",
+                "oldmonk",
+                "rainbowjoe"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L19_G7",
+            "players": [
+                "Jus-johnny",
+                "faihme",
+                "dragonearth",
+                "star"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G1",
+            "players": [
+                "pulkownik",
+                "haggis",
+                "cosdani",
+                "fodorfolde"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G2",
+            "players": [
+                "haggis",
+                "spinner",
+                "icf984",
+                "pulkownik"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G3",
+            "players": [
+                "spinner",
+                "cosdani",
+                "GreenEarthGuy",
+                "haggis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G4",
+            "players": [
+                "cosdani",
+                "icf984",
+                "fodorfolde",
+                "spinner"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G5",
+            "players": [
+                "icf984",
+                "GreenEarthGuy",
+                "pulkownik",
+                "cosdani"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G6",
+            "players": [
+                "GreenEarthGuy",
+                "fodorfolde",
+                "haggis",
+                "icf984"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L20_G7",
+            "players": [
+                "fodorfolde",
+                "pulkownik",
+                "spinner",
+                "GreenEarthGuy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G1",
+            "players": [
+                "chichi",
+                "Ocelotl",
+                "SmoothMoose",
+                "foolio"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G2",
+            "players": [
+                "Ocelotl",
+                "magicPepper",
+                "CharlieWonka",
+                "chichi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G3",
+            "players": [
+                "magicPepper",
+                "SmoothMoose",
+                "redessa",
+                "Ocelotl"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G4",
+            "players": [
+                "SmoothMoose",
+                "CharlieWonka",
+                "foolio",
+                "magicPepper"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G5",
+            "players": [
+                "CharlieWonka",
+                "redessa",
+                "chichi",
+                "SmoothMoose"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G6",
+            "players": [
+                "redessa",
+                "foolio",
+                "Ocelotl",
+                "CharlieWonka"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L21_G7",
+            "players": [
+                "foolio",
+                "chichi",
+                "magicPepper",
+                "redessa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G1",
+            "players": [
+                "chang773",
+                "susejotsirc",
+                "Disenculture",
+                "Fishpeddler"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G2",
+            "players": [
+                "susejotsirc",
+                "Mary",
+                "bbuckles",
+                "chang773"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G3",
+            "players": [
+                "Mary",
+                "Disenculture",
+                "Talbatross",
+                "susejotsirc"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G4",
+            "players": [
+                "Disenculture",
+                "bbuckles",
+                "Fishpeddler",
+                "Mary"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G5",
+            "players": [
+                "bbuckles",
+                "Talbatross",
+                "chang773",
+                "Disenculture"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G6",
+            "players": [
+                "Talbatross",
+                "Fishpeddler",
+                "susejotsirc",
+                "bbuckles"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L22_G7",
+            "players": [
+                "Fishpeddler",
+                "chang773",
+                "Mary",
+                "Talbatross"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G1",
+            "players": [
+                "JayTK214",
+                "ejsby",
+                "Painman1612",
+                "Gargyl"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G2",
+            "players": [
+                "ejsby",
+                "fogscarf",
+                "Peter",
+                "JayTK214"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G3",
+            "players": [
+                "fogscarf",
+                "Painman1612",
+                "JackRemeau",
+                "ejsby"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G4",
+            "players": [
+                "Painman1612",
+                "Peter",
+                "Gargyl",
+                "fogscarf"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G5",
+            "players": [
+                "Peter",
+                "JackRemeau",
+                "JayTK214",
+                "Painman1612"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G6",
+            "players": [
+                "JackRemeau",
+                "Gargyl",
+                "ejsby",
+                "Peter"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L23_G7",
+            "players": [
+                "Gargyl",
+                "JayTK214",
+                "fogscarf",
+                "JackRemeau"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G1",
+            "players": [
+                "malcolmk14",
+                "thebigkris",
+                "krisjwolff",
+                "Dharr367"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G2",
+            "players": [
+                "thebigkris",
+                "cicciopastic",
+                "Fabinho",
+                "malcolmk14"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G3",
+            "players": [
+                "cicciopastic",
+                "krisjwolff",
+                "Avarion",
+                "thebigkris"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G4",
+            "players": [
+                "krisjwolff",
+                "Fabinho",
+                "Dharr367",
+                "cicciopastic"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G5",
+            "players": [
+                "Fabinho",
+                "Avarion",
+                "malcolmk14",
+                "krisjwolff"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G6",
+            "players": [
+                "Avarion",
+                "Dharr367",
+                "thebigkris",
+                "Fabinho"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L24_G7",
+            "players": [
+                "Dharr367",
+                "malcolmk14",
+                "cicciopastic",
+                "Avarion"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G1",
+            "players": [
+                "Crowbarcool",
+                "gold4leaf",
+                "Tastytaiter",
+                "bodogate"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G2",
+            "players": [
+                "gold4leaf",
+                "Getrome",
+                "Zegol",
+                "Crowbarcool"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G3",
+            "players": [
+                "Getrome",
+                "Tastytaiter",
+                "shanebdavis",
+                "gold4leaf"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G4",
+            "players": [
+                "Tastytaiter",
+                "Zegol",
+                "bodogate",
+                "Getrome"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G5",
+            "players": [
+                "Zegol",
+                "shanebdavis",
+                "Crowbarcool",
+                "Tastytaiter"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G6",
+            "players": [
+                "shanebdavis",
+                "bodogate",
+                "gold4leaf",
+                "Zegol"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L25_G7",
+            "players": [
+                "bodogate",
+                "Crowbarcool",
+                "Getrome",
+                "shanebdavis"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G1",
+            "players": [
+                "Flope",
+                "HugeRabbitt",
+                "Soccerman99",
+                "watson720"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G2",
+            "players": [
+                "HugeRabbitt",
+                "Pustynia",
+                "Octrinity",
+                "Flope"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G3",
+            "players": [
+                "Pustynia",
+                "Soccerman99",
+                "hpup",
+                "HugeRabbitt"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G4",
+            "players": [
+                "Soccerman99",
+                "Octrinity",
+                "watson720",
+                "Pustynia"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G5",
+            "players": [
+                "Octrinity",
+                "hpup",
+                "Flope",
+                "Soccerman99"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G6",
+            "players": [
+                "hpup",
+                "watson720",
+                "HugeRabbitt",
+                "Octrinity"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L26_G7",
+            "players": [
+                "watson720",
+                "Flope",
+                "Pustynia",
+                "hpup"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G1",
+            "players": [
+                "SpaceBaby",
+                "peredur",
+                "gaara864",
+                "Missytutu"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G2",
+            "players": [
+                "peredur",
+                "Bowa",
+                "fraiyr",
+                "SpaceBaby"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G3",
+            "players": [
+                "Bowa",
+                "gaara864",
+                "zzt20100414",
+                "peredur"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G4",
+            "players": [
+                "gaara864",
+                "fraiyr",
+                "Missytutu",
+                "Bowa"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G5",
+            "players": [
+                "fraiyr",
+                "zzt20100414",
+                "SpaceBaby",
+                "gaara864"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G6",
+            "players": [
+                "zzt20100414",
+                "Missytutu",
+                "peredur",
+                "fraiyr"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L27_G7",
+            "players": [
+                "Missytutu",
+                "SpaceBaby",
+                "Bowa",
+                "zzt20100414"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G1",
+            "players": [
+                "rperiago",
+                "Nakor",
+                "lesy",
+                "Katieo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G2",
+            "players": [
+                "Nakor",
+                "coolyoyo",
+                "RoyalGambetto",
+                "rperiago"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G3",
+            "players": [
+                "coolyoyo",
+                "lesy",
+                "gryphyn",
+                "Nakor"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G4",
+            "players": [
+                "lesy",
+                "RoyalGambetto",
+                "Katieo",
+                "coolyoyo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G5",
+            "players": [
+                "RoyalGambetto",
+                "gryphyn",
+                "rperiago",
+                "lesy"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G6",
+            "players": [
+                "gryphyn",
+                "Katieo",
+                "Nakor",
+                "RoyalGambetto"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L28_G7",
+            "players": [
+                "Katieo",
+                "rperiago",
+                "coolyoyo",
+                "gryphyn"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G1",
+            "players": [
+                "raveman0013",
+                "lamrocks",
+                "Kong",
+                "Ziska"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G2",
+            "players": [
+                "lamrocks",
+                "Rungan",
+                "Chio",
+                "raveman0013"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G3",
+            "players": [
+                "Rungan",
+                "Kong",
+                "The_Shereef99",
+                "lamrocks"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G4",
+            "players": [
+                "Kong",
+                "Chio",
+                "Ziska",
+                "Rungan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G5",
+            "players": [
+                "Chio",
+                "The_Shereef99",
+                "raveman0013",
+                "Kong"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G6",
+            "players": [
+                "The_Shereef99",
+                "Ziska",
+                "lamrocks",
+                "Chio"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L29_G7",
+            "players": [
+                "Ziska",
+                "raveman0013",
+                "Rungan",
+                "The_Shereef99"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G1",
+            "players": [
+                "PaulineL",
+                "IanBru",
+                "Valheru",
+                "eimos"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G2",
+            "players": [
+                "IanBru",
+                "bcowley99",
+                "kaitie",
+                "PaulineL"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G3",
+            "players": [
+                "bcowley99",
+                "Valheru",
+                "sapoverde",
+                "IanBru"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G4",
+            "players": [
+                "Valheru",
+                "kaitie",
+                "eimos",
+                "bcowley99"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G5",
+            "players": [
+                "kaitie",
+                "sapoverde",
+                "PaulineL",
+                "Valheru"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G6",
+            "players": [
+                "sapoverde",
+                "eimos",
+                "IanBru",
+                "kaitie"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L30_G7",
+            "players": [
+                "eimos",
+                "PaulineL",
+                "bcowley99",
+                "sapoverde"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G1",
+            "players": [
+                "damon",
+                "Sean",
+                "botulismnator",
+                "grecocha"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G2",
+            "players": [
+                "Sean",
+                "mdrake",
+                "ferretti",
+                "damon"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G3",
+            "players": [
+                "mdrake",
+                "botulismnator",
+                "Volhoej",
+                "Sean"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G4",
+            "players": [
+                "botulismnator",
+                "ferretti",
+                "grecocha",
+                "mdrake"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G5",
+            "players": [
+                "ferretti",
+                "Volhoej",
+                "damon",
+                "botulismnator"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G6",
+            "players": [
+                "Volhoej",
+                "grecocha",
+                "Sean",
+                "ferretti"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L31_G7",
+            "players": [
+                "grecocha",
+                "damon",
+                "mdrake",
+                "Volhoej"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G1",
+            "players": [
+                "goldo",
+                "Scrat",
+                "jordan",
+                "Manxson"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G2",
+            "players": [
+                "Scrat",
+                "lrd",
+                "TheArrow",
+                "goldo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G3",
+            "players": [
+                "lrd",
+                "jordan",
+                "daFool",
+                "Scrat"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G4",
+            "players": [
+                "jordan",
+                "TheArrow",
+                "Manxson",
+                "lrd"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G5",
+            "players": [
+                "TheArrow",
+                "daFool",
+                "goldo",
+                "jordan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G6",
+            "players": [
+                "daFool",
+                "Manxson",
+                "Scrat",
+                "TheArrow"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L32_G7",
+            "players": [
+                "Manxson",
+                "goldo",
+                "lrd",
+                "daFool"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G1",
+            "players": [
+                "khruger",
+                "youmi",
+                "MissE",
+                "lycan"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G2",
+            "players": [
+                "youmi",
+                "circlinglines",
+                "brenthenson",
+                "khruger"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G3",
+            "players": [
+                "circlinglines",
+                "MissE",
+                "JHo",
+                "youmi"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G4",
+            "players": [
+                "MissE",
+                "brenthenson",
+                "lycan",
+                "circlinglines"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G5",
+            "players": [
+                "brenthenson",
+                "JHo",
+                "khruger",
+                "MissE"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G6",
+            "players": [
+                "JHo",
+                "lycan",
+                "youmi",
+                "brenthenson"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L33_G7",
+            "players": [
+                "lycan",
+                "khruger",
+                "circlinglines",
+                "JHo"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G1",
+            "players": [
+                "lykouragh",
+                "getamore",
+                "Citore",
+                "Tom_Ver"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G2",
+            "players": [
+                "getamore",
+                "elgen",
+                "alexanderfanz",
+                "lykouragh"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G3",
+            "players": [
+                "elgen",
+                "Citore",
+                "itzamna",
+                "getamore"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G4",
+            "players": [
+                "Citore",
+                "alexanderfanz",
+                "Tom_Ver",
+                "elgen"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G5",
+            "players": [
+                "alexanderfanz",
+                "itzamna",
+                "lykouragh",
+                "Citore"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G6",
+            "players": [
+                "itzamna",
+                "Tom_Ver",
+                "getamore",
+                "alexanderfanz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L34_G7",
+            "players": [
+                "Tom_Ver",
+                "lykouragh",
+                "elgen",
+                "itzamna"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G1",
+            "players": [
+                "RedHawk",
+                "Nugz4Hugz",
+                "Endula",
+                "Schriver"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G2",
+            "players": [
+                "Nugz4Hugz",
+                "Sundriedcamel",
+                "_Q_",
+                "RedHawk"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G3",
+            "players": [
+                "Sundriedcamel",
+                "Endula",
+                "Seppel",
+                "Nugz4Hugz"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G4",
+            "players": [
+                "Endula",
+                "_Q_",
+                "Schriver",
+                "Sundriedcamel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G5",
+            "players": [
+                "_Q_",
+                "Seppel",
+                "RedHawk",
+                "Endula"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G6",
+            "players": [
+                "Seppel",
+                "Schriver",
+                "Nugz4Hugz",
+                "_Q_"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L35_G7",
+            "players": [
+                "Schriver",
+                "RedHawk",
+                "Sundriedcamel",
+                "Seppel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G1",
+            "players": [
+                "gyakuza",
+                "MrBadcrumble",
+                "Rzacron",
+                "eliegel"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G2",
+            "players": [
+                "MrBadcrumble",
+                "croooooow",
+                "Detti76",
+                "gyakuza"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G3",
+            "players": [
+                "croooooow",
+                "Rzacron",
+                "earendils",
+                "MrBadcrumble"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G4",
+            "players": [
+                "Rzacron",
+                "Detti76",
+                "eliegel",
+                "croooooow"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G5",
+            "players": [
+                "Detti76",
+                "earendils",
+                "gyakuza",
+                "Rzacron"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G6",
+            "players": [
+                "earendils",
+                "eliegel",
+                "MrBadcrumble",
+                "Detti76"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L36_G7",
+            "players": [
+                "eliegel",
+                "gyakuza",
+                "croooooow",
+                "earendils"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G1",
+            "players": [
+                "itsgrey",
+                "moira",
+                "gabrielpena",
+                "lostgeek"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G2",
+            "players": [
+                "moira",
+                "gabrielpena",
+                "TATO10",
+                "Lightblade"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G3",
+            "players": [
+                "gabrielpena",
+                "TATO10",
+                "Nightmare",
+                "adamyedidia"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G4",
+            "players": [
+                "TATO10",
+                "Nightmare",
+                "lostgeek",
+                "itsgrey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G5",
+            "players": [
+                "Nightmare",
+                "lostgeek",
+                "Lightblade",
+                "moira"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G6",
+            "players": [
+                "lostgeek",
+                "Lightblade",
+                "adamyedidia",
+                "gabrielpena"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G7",
+            "players": [
+                "Lightblade",
+                "adamyedidia",
+                "itsgrey",
+                "TATO10"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L37_G8",
+            "players": [
+                "adamyedidia",
+                "itsgrey",
+                "moira",
+                "Nightmare"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G1",
+            "players": [
+                "Arguas",
+                "Tlaohakul",
+                "smenks13",
+                "cmwillis02"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G2",
+            "players": [
+                "Tlaohakul",
+                "smenks13",
+                "yucendulang",
+                "BLewis467"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G3",
+            "players": [
+                "smenks13",
+                "yucendulang",
+                "Dorian",
+                "rspacey"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G4",
+            "players": [
+                "yucendulang",
+                "Dorian",
+                "cmwillis02",
+                "Arguas"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G5",
+            "players": [
+                "Dorian",
+                "cmwillis02",
+                "BLewis467",
+                "Tlaohakul"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G6",
+            "players": [
+                "cmwillis02",
+                "BLewis467",
+                "rspacey",
+                "smenks13"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G7",
+            "players": [
+                "BLewis467",
+                "rspacey",
+                "Arguas",
+                "yucendulang"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L38_G8",
+            "players": [
+                "rspacey",
+                "Arguas",
+                "Tlaohakul",
+                "Dorian"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G1",
+            "players": [
+                "jcsferreira",
+                "cosmicrelief",
+                "phvlvt",
+                "jgdur"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G2",
+            "players": [
+                "cosmicrelief",
+                "phvlvt",
+                "zray",
+                "Heaten"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G3",
+            "players": [
+                "phvlvt",
+                "zray",
+                "Dini",
+                "Stimplethorp"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G4",
+            "players": [
+                "zray",
+                "Dini",
+                "jgdur",
+                "jcsferreira"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G5",
+            "players": [
+                "Dini",
+                "jgdur",
+                "Heaten",
+                "cosmicrelief"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G6",
+            "players": [
+                "jgdur",
+                "Heaten",
+                "Stimplethorp",
+                "phvlvt"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G7",
+            "players": [
+                "Heaten",
+                "Stimplethorp",
+                "jcsferreira",
+                "zray"
+            ]
+        },
+        {
+            "name": "4pLeague_S8_D7L39_G8",
+            "players": [
+                "Stimplethorp",
+                "jcsferreira",
+                "cosmicrelief",
+                "Dini"
+            ]
+        }
+    ],
+    "games-per-player": 4,
+    "options": [
+        "mini-expansion-1",
+        "shipping-bonus",
+        "email-notify",
+        "maintain-player-order",
+        "variable-turn-order"
+    ]
+}
