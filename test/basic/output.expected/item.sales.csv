@@ -1,0 +1,4 @@
+item._key,item.sales._key,sales.count,sales.country
+"item 2",1,76,us
+"item 2",2,13,de
+"item 2",3,4,fi

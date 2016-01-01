@@ -1,0 +1,43 @@
+{
+    "item 1": {
+        "title": "The First Item",
+        "genres": ["sci-fi", "adventure"],
+        "rating": {
+            "mean": 9.5,
+            "votes": 190
+        },
+        "appendix": {
+            "a": {
+                "title": "Footnotes",
+                "pages": 20
+            },
+            "b": {
+                "title": "Equations",
+                "pages": 10
+            }
+        }
+    },
+    "item 2": {
+        "title": "The Second Item",
+        "genres": ["history", "economics"],
+        "rating": {
+            "mean": 7.4,
+            "votes": 865
+        },
+        "sales": [
+            { "count": 76, "country": "us" },
+            { "count": 13, "country": "de" },
+            { "count": 4, "country": "fi" }
+        ],
+        "appendix": [
+            {
+                "title": "Footnotes",
+                "pages": 5
+            },
+            {
+                "title": "Equations",
+                "pages": 2
+            }
+        ]
+    }
+}

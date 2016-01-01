@@ -1,0 +1,3 @@
+item._key,item.rating.mean,item.rating.votes,item.title
+"item 1",9.5,190,"The First Item"
+"item 2",7.4,865,"The Second Item"
