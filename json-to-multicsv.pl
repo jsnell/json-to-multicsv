@@ -27,7 +27,7 @@ Assuming the following input file:
            "rating": {
                "mean": 9.5,
                "votes": 190
-           },
+           }
        },
        "item 2": {
            "title": "The Second Item",
@@ -40,7 +40,7 @@ Assuming the following input file:
                { "count": 76, "country": "us" },
                { "count": 13, "country": "de" },
                { "count": 4, "country": "fi" }
-           ],
+           ]
        }
    }
 
