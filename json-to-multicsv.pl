@@ -229,13 +229,13 @@ sub grovel {
     if (!defined $val or !ref $val) {
         record $val;
     } elsif ('HASH' eq ref $val) {
-        die "Don't know how to handle object at $path. Suggestions:\n --path $path:table:name\n --path $path:column\n --path $path:row\n --path $path:ignore" if !$handler;
+        die "Don't know how to handle object at $path. Suggestions:\n --path $path:table:name\n --path $path:column\n --path $path:row\n --path $path:ignore\n" if !$handler;
         
         if ($handler->{kind} eq 'table') {
             for my $key (sort keys %{$val}) {
                 local @key = (@key, $key);
                 local @path = (@path, $key);
-                local $path = "$path$key/";
+                local $path = "$path*/";
                 local $field = $handler->{args}[0];
                 local @table = (@table, $field);
                 collect_row sub {
@@ -268,7 +268,7 @@ sub grovel {
             if ($handler->{kind} eq 'table') {
                 local @key = (@key, $index);
                 local @path = (@path, $index);
-                local $path = "$path$index/";
+                local $path = "$path*/";
                 local $field = $handler->{args}[0];
                 local @table = (@table, $field);
                 collect_row sub {
