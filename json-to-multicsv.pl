@@ -372,7 +372,7 @@ sub main {
     }
 
     
-    my $json = decode_json read_file $file;
+    my $json = decode_json scalar read_file $file;
     grovel $json;
 
     output_tables \%tables;
