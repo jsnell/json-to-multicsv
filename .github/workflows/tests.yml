@@ -1,4 +1,4 @@
-name: linux
+name: tests
 
 on: [push, pull_request]
 
@@ -14,4 +14,4 @@ jobs:
       - name: install
         run: cpanm .
       - name: test
-        run: perl test/runtests.pl
+        run: perl test/runtests.pl -v -v 
