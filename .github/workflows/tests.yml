@@ -12,6 +12,6 @@ jobs:
       - name: build Makefile
         run: perl Makefile.pl
       - name: install
-        run: cpanm .
+        run: cpanm . -v -v 
       - name: test
-        run: perl test/runtests.pl -v -v 
+        run: perl test/runtests.pl
