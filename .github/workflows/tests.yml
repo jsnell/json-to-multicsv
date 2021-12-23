@@ -9,8 +9,6 @@ jobs:
       image: perl:latest
     steps:
       - uses: actions/checkout@v2
-      - name: build Makefile
-        run: perl Makefile.pl
       - name: install
         run: cpanm . -v -v 
       - name: test
