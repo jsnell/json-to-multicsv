@@ -11,9 +11,9 @@ WriteMakefile(
     ( $ExtUtils::MakeMaker::VERSION >= 6.3002
         ? ( 'LICENSE' => 'MIT' )
         : () ),
-    PREREQ_PM => {
+    PREREQ_PM    => {
         'Text::CSV' => 0,
-	'File::Slurp' => 0,
-	'JSON' => 0,    
+        'File::Slurp' => 0,
+        'JSON' => 0,
     },
 );
