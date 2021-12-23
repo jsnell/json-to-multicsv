@@ -13,5 +13,6 @@ WriteMakefile(
         : () ),
     PREREQ_PM => {
         'Text::CSV' => 0,
+	'File::Slurp' => 0,
     },
 );
