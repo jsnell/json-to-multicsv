@@ -1,0 +1,17 @@
+name: linux
+
+on: [push, pull_request]
+
+jobs:
+  perl:
+    runs-on: ubuntu-latest
+    container:
+      image: perl:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: build Makefile
+        run: perl Makefile.pl
+      - name: install
+        run: cpanm .
+      - name: test
+        run: perl test/runtests.pl
