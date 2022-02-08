@@ -1,0 +1,6 @@
+main,main._key
+"foo
+bar",crnl
+"foo
+bar",newline
+ä,unicode

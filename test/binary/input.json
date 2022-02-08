@@ -1,0 +1,5 @@
+{
+    "crnl": "foo\r\nbar",
+    "newline": "foo\nbar",
+    "unicode": "\u00e4"
+}

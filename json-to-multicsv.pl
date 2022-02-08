@@ -289,9 +289,10 @@ sub grovel {
 
 sub output_tables {
     for my $name (keys %tables) {
-        open my $fh, ">", "$name.csv";
+        open my $fh, ">:encoding(utf8)", "$name.csv";
         my $csv = Text::CSV->new;
         $csv->eol("\n");
+        $csv->binary(1);
 
         my $data = $tables{$name}{data};
         my @fields = sort keys %{$tables{$name}{fields}};
