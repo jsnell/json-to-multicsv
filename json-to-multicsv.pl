@@ -226,7 +226,7 @@ sub grovel {
     if (defined $handler and $handler->{kind} eq 'ignore') {
         return;
     }
-    if (!defined $val or !ref $val) {
+    if (!defined $val or !ref $val or JSON::is_bool $val) {
         record $val;
     } elsif ('HASH' eq ref $val) {
         die "Don't know how to handle object at $path. Suggestions:\n --path $path:table:name\n --path $path:column\n --path $path:row\n --path $path:ignore\n" if !$handler;

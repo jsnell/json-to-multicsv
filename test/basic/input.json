@@ -2,6 +2,7 @@
     "item 1": {
         "title": "The First Item",
         "genres": ["sci-fi", "adventure"],
+        "available": true,
         "rating": {
             "mean": 9.5,
             "votes": 190
@@ -20,6 +21,7 @@
     "item 2": {
         "title": "The Second Item",
         "genres": ["history", "economics"],
+        "available": false,
         "rating": {
             "mean": 7.4,
             "votes": 865
